@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/* Converts Fahrenheit into Celsius from low to high
+ * Using the equation:
+ *      5 * (Fahrenheit - 32) / 9 = Celsius
+ */
+
 void main()
 {
         int fahr, celsius;

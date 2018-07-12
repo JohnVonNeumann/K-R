@@ -1,0 +1,6 @@
+# Ignore everything (mainly to elim exe's)
+*
+
+# Don't ignore legitmate source files
+!*.c
+!.gitignore

@@ -4,3 +4,4 @@
 # Don't ignore legitmate source files
 !*.c
 !.gitignore
+!Makefile
